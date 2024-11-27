@@ -18,4 +18,4 @@ Throughout the application, I used Streamlit's session state management (st.sess
 I implemented form submission buttons with conditional logic to enforce data validation. Users could only proceed to the next step or submit the form if all required fields were filled. Error messages were displayed to guide users in completing the form correctly.
 The main function orchestrated the entire flow, rendering the appropriate step based on the current st.session_state.step value. This created a dynamic, interactive form-filling experience.
 While this implementation is a frontend demonstration, in a real-world scenario, the form would typically send the collected data to a backend service for further processing, such as identity verification or database storage.
-ki hostedc this on gradio and here is the kink fir gradio'huggingface-https://huggingface.co/spaces/sidhtang/kyc_
+i hosted this on gradio and here is the link for gradio'huggingface-https://huggingface.co/spaces/sidhtang/kyc_
